@@ -1100,7 +1100,7 @@ a {
   }
 }
 .cid-uGqhWTowAx {
-  background-color: #fafafa;
+  background-image: url("../../../assets/images/whatsapp-image-2025-03-27-at-10.31.54-1600x1200.jpeg");
 }
 @media (max-width: 991px) {
   .cid-uGqhWTowAx .mbr-section-title,
@@ -1109,6 +1109,13 @@ a {
   .cid-uGqhWTowAx .mbr-text {
     text-align: center;
   }
+}
+.cid-uGqhWTowAx .mbr-section-title {
+  color: #000000;
+}
+.cid-uGqhWTowAx .mbr-text,
+.cid-uGqhWTowAx .mbr-section-btn {
+  color: #000000;
 }
 .cid-uGBOoEFGbe {
   padding-top: 5rem;
